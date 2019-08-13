@@ -9,7 +9,7 @@
   },
   "author": "Raj Ranjan",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.19.0",
     "cors": "^2.8.4",
     "dotenv": "^6.0.0",
     "ejs": "^2.6.1",
